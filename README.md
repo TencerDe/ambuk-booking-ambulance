@@ -481,4 +481,3 @@ For support or inquiries, please contact the development team.
 
 ---
 
-**Built with ❤️ using [Lovable](https://lovable.dev)**
