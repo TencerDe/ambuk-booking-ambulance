@@ -2,7 +2,6 @@
 
 > A real-time emergency ambulance booking system with GPS tracking, driver management, and admin dashboard.
 
-![Ambuk Logo](public/lovable-uploads/bac82e43-5e9b-40e3-a273-7c7fc5fa5b01.png)
 
 ## 📋 Table of Contents
 
